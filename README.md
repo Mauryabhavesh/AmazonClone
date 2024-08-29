@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/61752151/169870452-5823e566-9a76-47b2-
 - Clone the repository on your local machine with the command below in your terminal, and cd into the **amazon-clone** folder
 
 ```sh
-https://github.com/Deepak-1373/amazon-clone-app.git
+https://github.com/Mauryabhavesh/AmazonClone.git
 
 cd amazon-clone
 ```
