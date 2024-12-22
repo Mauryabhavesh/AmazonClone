@@ -64,11 +64,3 @@ YOUR_STRIPE_SECRET_KEY = <Paste your secret key>
 ![screencapture-localhost-3000-payment-2022-05-23-22_43_08](https://user-images.githubusercontent.com/61752151/169872856-46a0d35c-1846-43ae-a7c2-db03b543f8b0.jpg)
 
 
-## 👨‍💻 Connect with me 
-<a href="https://twitter.com/dkamat001"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/deepak-1373"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-
-
-
-
